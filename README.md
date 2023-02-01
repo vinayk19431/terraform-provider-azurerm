@@ -1,3 +1,7 @@
+https://github.com/hashicorp/terraform-provider-azurerm/blob/main/examples/kubernetes/spot-node-pool/main.tf
+
+
+
 <a href="https://terraform.io">
     <img src=".github/tf.png" alt="Terraform logo" title="Terraform" align="left" height="50" />
 </a>
